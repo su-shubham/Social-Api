@@ -7,3 +7,4 @@ Dockerfile
 Procfile
 nginx
 gunicorn.service
+docker-compose-dev.yml
